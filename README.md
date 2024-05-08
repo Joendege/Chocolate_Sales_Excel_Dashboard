@@ -1,5 +1,17 @@
 # Chocolate Sales Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Explatory Data Analysis](#explatory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Recommedations](#recommedations)
+- [Results and Findings](#results-and-findings)
+- [References](#references)
+
+
 ### Project Overview
 This data analysis project aims to provide insights about Chocolate Sales for a period of two years. By analyzing various aspects of this Chocolate Sales data, we seek to indentify trends, make data driven recommedations, and gain deeper understanding of company performance. The analysis is broken down into four parts:
 - **Overoll Business Summary**
