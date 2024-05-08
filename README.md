@@ -6,6 +6,10 @@ This data analysis project aims to provide insights about Chocolate Sales for a 
 - **Geographical Performance**
 - **Team and People Performance**
 - **Product Performance**
+  
+
+  ![Chocolate_sales](https://github.com/Joendege/Chocolate_Sales_Excel_Dashboard/assets/123901910/511c587b-c699-4c00-9feb-35b582b3972a)
+
 
 ### Data Sources
 Sales Data: The primary data source used is "sales_data.xlsx" file with four tables:
